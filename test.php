@@ -46,14 +46,12 @@ if(isset($_POST['btn'])){
     <title>Document</title>
 </head>
 <body>
-    
-
-<p>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</p>
 <form action="./test.php" method="POST"　enctype="multipart/form-data">
     <input type="file" name="img">
     <button name="btn">aaaaa</button>
 </form>
 
+<p>バー――カ</p>
 
 </body>
 </html>
